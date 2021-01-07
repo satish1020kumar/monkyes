@@ -1,0 +1,118 @@
+#home{
+  background-color: #ef8172;
+}
+.container-fluid{
+  background-color: #ef8172;
+  padding-top: 5%
+}
+/*------------------- navbar------------------------*/
+#navbar{
+  color: white;
+  margin-left: 5%;
+  font-size: 2rem;
+
+}
+.navbar-nav{
+  margin-left:75%;
+}
+.nav-item{
+  margin: 2%;
+}
+.nav-link{
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+/*--------------------section----------------------*/
+#title{
+  background-color: #ef8172;
+  padding: 7% 5%;
+}
+h1{
+  color: white;
+}
+#h1{
+  font-size: 3.5rem;
+  font-family: 'Abril Fatface', cursive;
+  line-height: 1.5;
+  margin-top: 20px;
+}
+/*----------------------section two---------------------*/
+#Education{
+  padding: 3% 7%;
+}
+.satish{
+  border-radius: 100%;
+}
+.h1{
+  color: #ecce6d;
+}
+/*--------------------Section three-----------------*/
+#Monkeys{
+  text-align: center;
+  padding: 5% 15%;
+}
+.p{
+  line-height: 2;
+  font-size: 2rem;
+  color: #40514E;
+  font-family: 'Satisfy', cursive;
+
+}
+.p1{
+  font-size: 1.5rem;
+  color: #40514E;
+  font-family: serif;
+
+}
+/*----------------------sclidind-------------------------*/
+#sliding{
+  text-align: center;
+  padding: 15% 5%;
+  background-color: #ff4c68;
+}
+.img{
+  height: 400px;
+  width: 400px;
+  border-radius: 100%;
+}
+.imge{
+  height: 450px;
+  width: 600px;
+}
+#h2{
+  color: white;
+  font-size: 3rem;
+  margin: auto 50px;
+  line-height: 1.5;
+  padding-bottom: 3%;
+}
+.em{
+  margin-left: 2%;
+  color: green;
+}
+/*----------------------------------------contact-------------------------*/
+#Buddies{
+  background-color: pink;
+  text-align: center;
+  padding: 10% 15%;
+  margin: 100px 100px;
+}
+#Contact{
+  text-align: center;
+}
+#icon{
+  text-align: center;
+  margin-left: 36%;
+}
+#ic{
+  margin-left: 1.6%;
+  padding-bottom: 1%;
+  cursor: pointer;
+}
+/*------------------------headings------------------------------------*/
+#h21{
+  color:#e2979c;
+}
+#h3{
+  color: #407088;
+}
